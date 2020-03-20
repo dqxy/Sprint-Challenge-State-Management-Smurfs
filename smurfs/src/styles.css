@@ -1,0 +1,41 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+div.error {
+  color: red;
+}
+
+.data{margin:20px}
+
+body{
+  background-color: rgb(16, 0, 73);
+  color:rgb(123, 130, 172);
+}
+
+button{
+  background-color: #008CBA; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  display:block;
+  margin:10px;
+}
+
+input{
+  background-color: #555555; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  display:block;
+  margin:10px;
+}
